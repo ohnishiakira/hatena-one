@@ -29,6 +29,3 @@ class HatenaOne
     }
   end
 end
-
-one = HatenaOne.new(user, password)
-one.post(comment)
